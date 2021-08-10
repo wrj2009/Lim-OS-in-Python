@@ -68,6 +68,7 @@ def info():
     print("info:")
     print("""Lim OS v1.2.000 by Markchai
 Lim OS in Python v0.1.1 by Scratcher-wrj
+This Lim OS has Super Cow Powers
 CC BY-NC 4.0
 """)
 
